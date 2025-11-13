@@ -650,7 +650,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer 9cc7477e-41f4-423c-8f0f-e03ac5b1a39a"
+              "value": "Bearer xxxxxxxxxxxxxxxx"
             },
             {
               "name": "Content-Type",
